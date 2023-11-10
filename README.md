@@ -43,7 +43,7 @@ Topics include:
     
 4. Run the following to install the project dependencies:
 
-    `npm install`
+    `npm install fix --force`
     
 5. Run the ng serve command to build the code, watch for file changes, and serve up the site locally:
 
