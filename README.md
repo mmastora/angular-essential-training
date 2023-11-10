@@ -43,13 +43,15 @@ Topics include:
     
 4. Run the following to install the project dependencies:
 
-    `npm install fix --force`
+   4.1 `npm install`
+   4.2 `npm audit fix --force`
+   4.3 `npm install fix --force`
     
-5. Run the ng serve command to build the code, watch for file changes, and serve up the site locally:
+6. Run the ng serve command to build the code, watch for file changes, and serve up the site locally:
 
     `ng serve`
 
-6. Navigate to http://localhost:4200. The app will automatically reload if you change any of the source files.
+7. Navigate to http://localhost:4200. The app will automatically reload if you change any of the source files.
 
     `http://localhost:4200/`
 
